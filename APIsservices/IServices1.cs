@@ -12,5 +12,11 @@ namespace APIsservices
         public Task<List<Apis>> GetAll();
 
         public Task<bool> Post(string date, string events);
+
+        public Task<List<Apis>> GetByDate(string date);
+
+        public Task<bool> Update(string curDate, string curEvents, string newDate, string newEvents);
+
+        public Task<bool> Remove(string curDate, string curEvents);
     }
 }

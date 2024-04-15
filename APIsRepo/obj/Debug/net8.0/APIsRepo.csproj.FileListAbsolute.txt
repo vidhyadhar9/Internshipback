@@ -13,3 +13,4 @@ C:\Users\vidhy\source\repos\Internship\APIsRepo\obj\Debug\net8.0\APIsRepo.dll
 C:\Users\vidhy\source\repos\Internship\APIsRepo\obj\Debug\net8.0\refint\APIsRepo.dll
 C:\Users\vidhy\source\repos\Internship\APIsRepo\obj\Debug\net8.0\APIsRepo.pdb
 C:\Users\vidhy\source\repos\Internship\APIsRepo\obj\Debug\net8.0\ref\APIsRepo.dll
+C:\Users\vidhy\source\repos\Internship\APIsRepo\obj\Debug\net8.0\APIsRepo.sourcelink.json

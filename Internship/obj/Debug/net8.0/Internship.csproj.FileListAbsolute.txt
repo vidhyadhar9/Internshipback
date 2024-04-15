@@ -71,3 +71,4 @@ C:\Users\vidhy\source\repos\Internship\Internship\bin\Debug\net8.0\Common.dll
 C:\Users\vidhy\source\repos\Internship\Internship\bin\Debug\net8.0\APIsservices.pdb
 C:\Users\vidhy\source\repos\Internship\Internship\bin\Debug\net8.0\APIsRepo.pdb
 C:\Users\vidhy\source\repos\Internship\Internship\bin\Debug\net8.0\Common.pdb
+C:\Users\vidhy\source\repos\Internship\Internship\obj\Debug\net8.0\Internship.sourcelink.json

@@ -10,3 +10,4 @@ C:\Users\vidhy\source\repos\Internship\Common\obj\Debug\net8.0\Common.dll
 C:\Users\vidhy\source\repos\Internship\Common\obj\Debug\net8.0\refint\Common.dll
 C:\Users\vidhy\source\repos\Internship\Common\obj\Debug\net8.0\Common.pdb
 C:\Users\vidhy\source\repos\Internship\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\vidhy\source\repos\Internship\Common\obj\Debug\net8.0\Common.sourcelink.json
