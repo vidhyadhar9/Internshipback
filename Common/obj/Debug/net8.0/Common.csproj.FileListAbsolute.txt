@@ -1,0 +1,12 @@
+C:\Users\vidhy\source\repos\Internship\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\vidhy\source\repos\Internship\Common\bin\Debug\net8.0\Common.dll
+C:\Users\vidhy\source\repos\Internship\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\vidhy\source\repos\Internship\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\vidhy\source\repos\Internship\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhy\source\repos\Internship\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\vidhy\source\repos\Internship\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\vidhy\source\repos\Internship\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\vidhy\source\repos\Internship\Common\obj\Debug\net8.0\Common.dll
+C:\Users\vidhy\source\repos\Internship\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\vidhy\source\repos\Internship\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\vidhy\source\repos\Internship\Common\obj\Debug\net8.0\ref\Common.dll

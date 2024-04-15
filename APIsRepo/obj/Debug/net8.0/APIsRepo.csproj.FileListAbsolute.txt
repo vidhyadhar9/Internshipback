@@ -1,0 +1,15 @@
+C:\Users\vidhy\source\repos\Internship\APIsRepo\bin\Debug\net8.0\APIsRepo.deps.json
+C:\Users\vidhy\source\repos\Internship\APIsRepo\bin\Debug\net8.0\APIsRepo.dll
+C:\Users\vidhy\source\repos\Internship\APIsRepo\bin\Debug\net8.0\APIsRepo.pdb
+C:\Users\vidhy\source\repos\Internship\APIsRepo\bin\Debug\net8.0\Common.dll
+C:\Users\vidhy\source\repos\Internship\APIsRepo\bin\Debug\net8.0\Common.pdb
+C:\Users\vidhy\source\repos\Internship\APIsRepo\obj\Debug\net8.0\APIsRepo.csproj.AssemblyReference.cache
+C:\Users\vidhy\source\repos\Internship\APIsRepo\obj\Debug\net8.0\APIsRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhy\source\repos\Internship\APIsRepo\obj\Debug\net8.0\APIsRepo.AssemblyInfoInputs.cache
+C:\Users\vidhy\source\repos\Internship\APIsRepo\obj\Debug\net8.0\APIsRepo.AssemblyInfo.cs
+C:\Users\vidhy\source\repos\Internship\APIsRepo\obj\Debug\net8.0\APIsRepo.csproj.CoreCompileInputs.cache
+C:\Users\vidhy\source\repos\Internship\APIsRepo\obj\Debug\net8.0\APIsRepo.csproj.CopyComplete
+C:\Users\vidhy\source\repos\Internship\APIsRepo\obj\Debug\net8.0\APIsRepo.dll
+C:\Users\vidhy\source\repos\Internship\APIsRepo\obj\Debug\net8.0\refint\APIsRepo.dll
+C:\Users\vidhy\source\repos\Internship\APIsRepo\obj\Debug\net8.0\APIsRepo.pdb
+C:\Users\vidhy\source\repos\Internship\APIsRepo\obj\Debug\net8.0\ref\APIsRepo.dll
